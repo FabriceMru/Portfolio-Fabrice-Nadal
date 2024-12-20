@@ -32,7 +32,7 @@ const Footer = () => {
                   <img
                     src={icon}
                     alt={title}
-                    className="size-1/3 object-contain"
+                    className="w-7 h-7 object-contain"
                   />
                 </a>
               </li>

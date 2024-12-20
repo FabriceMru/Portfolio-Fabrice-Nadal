@@ -12,8 +12,9 @@ const Download = () => {
         <div className="container">
           <div className="flex items-center">
             <div className="relative mr-6 flex-540 max-xl:flex-280 max-lg:flex256 max-md:flex-100">
-              <div className="mb-10">
+              <div className="mt-0 mr-14">
                 <img
+                  className="ml-14"
                   src="/images/logo-kitsune.png"
                   width={340}
                   height={340}
@@ -45,9 +46,11 @@ const Download = () => {
                 </span>
               </div>
 
-              <p className="body-1 mb-10 max-w-md">
-                Herunterladen von ( Lebenslauf & Zertifikaten ) in bekannten
-                Formaten
+              <p className="body-3 mb-8 mt-10 max-w-md">
+                <b>
+                  Herunterladen von ( Lebenslauf & Zertifikaten ) in bekannten
+                  Formaten
+                </b>
               </p>
               <ul className="flex flex-wrap items-center gap-6">
                 {links.map(({ id, url, icon }) => (

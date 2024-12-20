@@ -19,7 +19,11 @@ const Faq = () => {
 
           <div className="faq-line_after w-0.5 h-full absolute left-[calc(50%-1px)] top-0 -z-1 bg-s2" />
         </div>
-
+        <div className="h-full flex items-center justify-center">
+          <span className="h3 max-md:h5 max-w-640 max-lg:max-w-md mb-10 text-p4 flex justify-center items-center text-center">
+            Fragen & Antworten
+          </span>
+        </div>
         <div className="faq-glow_before relative z-2 border-2 border-s2 bg-s1">
           <div className="container flex gap-10 max-lg:block">
             <div className="rounded-half absolute -top-10 left-[calc(50%-40px)] z-4 flex size-20 items-center justify-center border-2 border-s2 bg-s1">
