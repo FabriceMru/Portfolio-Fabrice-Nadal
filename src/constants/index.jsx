@@ -185,11 +185,11 @@ export const plans = [
 export const testimonials = [
   {
     id: "0",
-    name: "Tarek Mandelartz",
-    role: "CEO Mandel VC GmbH & Audat",
+    name: "Tarek M.",
+    role: "CEO - Audat",
     avatarUrl: "/images/testimonials/jessica-saunders.png",
     comment:
-      "Seine Arbeit an unseren Webprojekten bei Mandel VC und Audat zeichnete sich durch technische Präzision und strategischen Weitblick aus. Er versteht es, digitale Lösungen zu entwickeln, die nicht nur technisch überzeugen, sondern auch echten Business-Mehrwert schaffen.",
+      "Seine Arbeit an unseren Webprojekten bei Audat zeichnete sich durch technische Präzision und strategischen Weitblick aus. Er versteht es, digitale Lösungen zu entwickeln, die nicht nur technisch überzeugen, sondern auch echten Business-Mehrwert schaffen.",
   },
   {
     id: "1",
@@ -201,8 +201,8 @@ export const testimonials = [
   },
   {
     id: "2",
-    name: "Gerardo Michelle Mossuto",
-    role: "Student - Digital Career Institue",
+    name: "Gerardo Michelle M.",
+    role: "Student - Digital Career Institute",
     avatarUrl: "/images/testimonials/melanie-hurst.png",
     comment: "Coming soon.",
   },
@@ -216,7 +216,7 @@ export const testimonials = [
   },
   {
     id: "4",
-    name: "Michael Kern",
+    name: "Michael K.",
     role: "CEO - LuxuryDreams",
     avatarUrl: "/images/testimonials/becky-snider.png",
     comment:
@@ -224,11 +224,11 @@ export const testimonials = [
   },
   {
     id: "5",
-    name: "Maurice",
-    role: "My Son",
+    name: "Mike Zobrys",
+    role: "Inhaber - TUI ReiseCenter, Berlin",
     avatarUrl: "/images/testimonials/jim-bradley.png",
     comment:
-      "Papa arbeitet viel, aber wenn er mal da ist haben wir immer sehr viel Spass.",
+      "Fabrice ist ein herausragender Mitarbeiter, der durch Engagement, Kundenorientierung und kreative Ideen überzeugt. Seine professionelle Arbeitsweise und positive Ausstrahlung bereichern unser Team enorm. Ein echter Gewinn für jedes Unternehmen!",
   },
 ];
 

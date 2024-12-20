@@ -21,8 +21,8 @@ const Header = () => {
   const NavLink = ({ title }) => (
     <LinkScroll
       onClick={() => setIsOpen(false)}
-      to={title}
       offset={-100}
+      to={title}
       spy
       smooth
       activeClass="nav-active"
@@ -54,17 +54,17 @@ const Header = () => {
             <nav className="max-lg:relative max-lg:z-2 max-lg:my-auto">
               <ul className="flex max-lg:block max-lg:px-12">
                 <li className="nav-li">
-                  <NavLink title="Über Mich" />
+                  <NavLink title="about me" />
                   <div className="dot" />
-                  <NavLink title="Qualifikationen" />
+                  <NavLink title="salary" />
                 </li>
 
                 <li className="nav-logo">
                   <LinkScroll
                     to="hero"
-                    offset={-250}
-                    spy
-                    smooth
+                    offset={-100}
+                    spy={true}
+                    smooth={true}
                     className={clsx(
                       "max-lg:hidden transition-transform duration-500 cursor-pointer",
                     )}
@@ -77,9 +77,8 @@ const Header = () => {
                     />
                   </LinkScroll>
                 </li>
-
                 <li className="nav-li">
-                  <NavLink title="Gehalt" />
+                  <NavLink title="faq" />
                   <div className="dot" />
                   <NavLink title="download" />
                 </li>
