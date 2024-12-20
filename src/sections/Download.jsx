@@ -14,11 +14,35 @@ const Download = () => {
             <div className="relative mr-6 flex-540 max-xl:flex-280 max-lg:flex256 max-md:flex-100">
               <div className="mb-10">
                 <img
-                  src="/images/Maske.png"
+                  src="/images/logo-kitsune.png"
                   width={340}
                   height={340}
                   alt="maske"
                 />
+
+                <span>
+                  <i>
+                    Kōbō Kitsune (工房狐), die "Werkstatt des Fuchses" steht an
+                    der Schwelle zwischen zwei Welten - verwurzelt in der
+                    mystischen Tradition Japans und zugleich vorausschauend in
+                    die digitale Zukunft. In dieser Werkstatt verschmelzen
+                    jahrtausendealte Handwerkskunst und modernste Technologie zu
+                    einer harmonischen Einheit. <br />
+                    <br />
+                    Die Zeichen 工 (kō) und 房 (bō) formen zusammen "Kōbō"
+                    (工房) - die Werkstatt. Während 工 die schöpferische Kraft
+                    des Handwerks verkörpert, öffnet 房 die Tür zu einem
+                    Refugium der Kreativität, wo Inspiration auf Können trifft.{" "}
+                    <br />
+                    <br />
+                    Der Fuchs, "Kitsune" (狐), ist Meister der Verwandlung und
+                    Hüter uralter Weisheiten. Seine Präsenz vereint tiefgründige
+                    Weisheit und schelmische Spielerei - wie Yin und Yang in
+                    perfekter Balance. So entsteht ein magischer Ort, wo das
+                    Alltägliche auf das Außergewöhnliche trifft und neue Wunder
+                    entstehen.
+                  </i>
+                </span>
               </div>
 
               <p className="body-1 mb-10 max-w-md">

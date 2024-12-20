@@ -59,6 +59,16 @@ export const details = [
     icon: "/images/logo-mongodb.svg",
     title: "MONGO DB",
   },
+  {
+    id: "7",
+    icon: "/images/logo-tailwindcss.svg",
+    title: "TAILWIND CSS",
+  },
+  {
+    id: "8",
+    icon: "/images/logo-bootstrap.svg",
+    title: "BOOTSTRAP",
+  },
 ];
 
 export const faq = [
