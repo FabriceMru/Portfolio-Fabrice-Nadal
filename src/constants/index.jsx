@@ -187,30 +187,31 @@ export const testimonials = [
     id: "0",
     name: "Tarek M.",
     role: "CEO - Audat",
-    avatarUrl: "/images/testimonials/jessica-saunders.png",
+    avatarUrl: "/images/testimonials/tarek-round.png",
     comment:
       "Seine Arbeit an unseren Webprojekten bei Audat zeichnete sich durch technische Präzision und strategischen Weitblick aus. Er versteht es, digitale Lösungen zu entwickeln, die nicht nur technisch überzeugen, sondern auch echten Business-Mehrwert schaffen.",
   },
   {
     id: "1",
     name: "Jimmy Kuchenmeister",
-    role: "Team Lead Account Executive - NinjaOne",
-    avatarUrl: "/images/testimonials/mark-erixon.png",
+    role: "Team Lead Sales DACH - NinjaOne",
+    avatarUrl: "/images/testimonials/jimmy-rund.png",
     comment:
       "Eine seltene Kombination aus technischer Expertise und Kommunikationsstärke. Seine Fähigkeit, komplexe Lösungen verständlich zu vermitteln, macht ihn zu einem wertvollen Kollegen und Freund.",
   },
   {
     id: "2",
-    name: "Gerardo Michelle M.",
-    role: "Student - Digital Career Institute",
-    avatarUrl: "/images/testimonials/melanie-hurst.png",
-    comment: "Coming soon.",
+    name: "Gerardo Mossuto",
+    role: "Fellow Web Developer & DCI Alumni",
+    avatarUrl: "/images/testimonials/gerardo-round.png",
+    comment:
+      "During our time at DCI, we collaborated on numerous projects where his problem-solving skills and coding expertise consistently stood out. Not only is he a talented developer, but his ability to break down complex challenges and find innovative solutions made him an invaluable project partner.",
   },
   {
     id: "3",
     name: "Natalia Klimek",
-    role: "Team Lead SDR - NinjaOne",
-    avatarUrl: "/images/natalia.jpeg",
+    role: "Team Lead SDR Manager - NinjaOne",
+    avatarUrl: "/images/testimonials/natalia-round.png",
     comment:
       "Starting our SDR journey at NinjaOne almost simultaneously, I witnessed firsthand his exceptional ability to connect with prospects and drive meaningful conversations. His analytical approach combined with genuine enthusiasm makes him not just a great colleague, but an inspiring team player.",
   },
@@ -218,7 +219,7 @@ export const testimonials = [
     id: "4",
     name: "Michael K.",
     role: "CEO - LuxuryDreams",
-    avatarUrl: "/images/testimonials/becky-snider.png",
+    avatarUrl: "/images/testimonials/michael-rund.png",
     comment:
       "In seiner Zeit bei LuxuryDreams überzeugte er durch die bemerkenswerte Kombination aus strategischem Denken und praktischer Umsetzung. Seine Exzellenz und Fähigkeit, nachhaltige Kundenbeziehungen aufzubauen, trugen maßgeblich zu unserem Unternehmenswachstum bei.",
   },
@@ -226,7 +227,7 @@ export const testimonials = [
     id: "5",
     name: "Mike Zobrys",
     role: "Inhaber - TUI ReiseCenter, Berlin",
-    avatarUrl: "/images/testimonials/jim-bradley.png",
+    avatarUrl: "/images/testimonials/Mike-rund.png",
     comment:
       "Fabrice ist ein herausragender Mitarbeiter, der durch Engagement, Kundenorientierung und kreative Ideen überzeugt. Seine professionelle Arbeitsweise und positive Ausstrahlung bereichern unser Team enorm. Ein echter Gewinn für jedes Unternehmen!",
   },

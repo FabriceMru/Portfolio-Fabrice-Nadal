@@ -21,10 +21,10 @@ const Hero = () => {
             </LinkScroll>
           </div>
 
-          <div className="flex-2 ml-8 absolute left-[calc(75%-400px)] top-[calc(86%-400px)]">
+          <div className="flex-2 ml-8 absolute left-[calc(75%-400px)] top-[calc(86%-400px)] w-full my-4">
             <img
               src="/images/screens-me.png"
-              className="w-full max-w-[400px] h-auto rounded-md"
+              className="w-full h-auto max-w-full md:max-w-[400px] rounded-md"
               alt="hero"
             />
           </div>

@@ -1,6 +1,6 @@
 # Portfolio - Fabrice Nadal
 
-Dies ist das persönliche Portfolio von Fabrizzle, das darauf abzielt, meine Fähigkeiten und Projekte vorzustellen. Es dient als digitale Visitenkarte und zeigt meine Arbeiten und Expertise als (angehender) Fullstack-Webentwickler.
+Dies ist das persönliche Portfolio von Fabrice, das darauf abzielt, meine Fähigkeiten und Projekte vorzustellen. Es dient als digitale Visitenkarte und zeigt meine Arbeiten und Expertise als (angehender) Fullstack-Webentwickler.
 
 ## Technologien
 Das Portfolio wurde mit modernen Web-Technologien erstellt, um eine schnelle, flexible und ansprechende Benutzeroberfläche bereitzustellen. Die folgenden Technologien kommen zum Einsatz:
