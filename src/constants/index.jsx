@@ -378,25 +378,25 @@ export const links = [
     id: "0",
     title: "Ios",
     icon: <Ios />,
-    url: "/public/downloads/Lebenslauf&Zertifikate.zip",
+    url: "/public/downloads/Lebenslauf_Zertifikate.zip",
   },
   {
     id: "1",
     title: "Android",
     icon: <Android />,
-    url: "/public/downloads/Lebenslauf&Zertifikate.zip",
+    url: "/public/downloads/Lebenslauf_Zertifikate.zip",
   },
   {
     id: "2",
     title: "Windows",
     icon: <Windows />,
-    url: "/public/downloads/Lebenslauf&Zertifikate.zip",
+    url: "/public/downloads/Lebenslauf_Zertifikate.zip",
   },
   {
     id: "3",
     title: "Web",
     icon: <Web />,
-    url: "/public/downloads/Lebenslauf&Zertifikate.zip",
+    url: "/public/downloads/Lebenslauf_Zertifikate.zip",
   },
 ];
 
