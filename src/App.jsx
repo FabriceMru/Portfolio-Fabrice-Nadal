@@ -11,11 +11,8 @@ import Download from "./sections/Download.jsx";
 import Footer from "./sections/Footer.jsx";
 
 const App = () => {
-  const { t } = useTranslation(); // Hook für Übersetzungen
-
   return (
     <main className="overflow-hidden">
-      <LanguageSwitcher /> {/* Sprachwechsler oben links */}
       <Header />
       <Hero />
       <Features />
