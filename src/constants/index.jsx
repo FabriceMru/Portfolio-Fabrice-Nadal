@@ -138,8 +138,8 @@ export const plans = [
   {
     id: "0",
     title: "Junior",
-    priceMonthly: 4085,
-    priceYearly: 49000,
+    priceMonthly: 4285,
+    priceYearly: 51420,
     caption: "1-2 years",
     features: [
       "MongoDB: Basis-Datenbankoperationen, einfache Schemas",
