@@ -1,6 +1,4 @@
 import React from "react";
-import { useTranslation } from "react-i18next";
-import LanguageSwitcher from "./translation/LanguageSwitcher.jsx"; // Importiere die Sprachwechsler-Komponente
 import Header from "./sections/Header.jsx";
 import Hero from "./sections/Hero.jsx";
 import Features from "./sections/Features.jsx";
