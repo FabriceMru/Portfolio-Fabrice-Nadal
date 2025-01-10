@@ -134,6 +134,8 @@ export const faq = [
   },
 ];
 
+const exchangeRate = 0.85;
+
 export const plans = [
   {
     id: "0",
