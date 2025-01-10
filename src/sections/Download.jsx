@@ -99,6 +99,7 @@ const Download = () => {
           <ul className="mt-24 flex justify-center max-lg:hidden">
             {logos.map(({ id, url, width, height, title }) => (
               <li key={id} className="mx-10">
+                <h2 className="text-center text-p4 mb-16">Partner Projekte</h2>
                 <img src={url} width={width} height={height} alt={title} />
               </li>
             ))}

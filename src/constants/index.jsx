@@ -195,7 +195,7 @@ export const testimonials = [
   },
   {
     id: "1",
-    name: "Jimmy Kuchenmeister",
+    name: "Jimmy K.",
     role: "Team Lead Sales DACH - NinjaOne",
     avatarUrl: "/images/testimonials/jimmy-rund.png",
     comment:
@@ -203,7 +203,7 @@ export const testimonials = [
   },
   {
     id: "2",
-    name: "Gerardo Mossuto",
+    name: "Gerardo M.",
     role: "Fellow Web Developer & DCI Alumni",
     avatarUrl: "/images/testimonials/gerardo-round.png",
     comment:
@@ -211,7 +211,7 @@ export const testimonials = [
   },
   {
     id: "3",
-    name: "Natalia Klimek",
+    name: "Natalia K.",
     role: "Team Lead SDR Manager - NinjaOne",
     avatarUrl: "/images/testimonials/natalia-round.png",
     comment:
