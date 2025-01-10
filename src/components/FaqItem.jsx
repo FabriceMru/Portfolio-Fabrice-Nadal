@@ -1,7 +1,6 @@
 import clsx from "clsx";
 import { useState } from "react";
-import { SlideDown } from "react-slidedown";
-import "react-slidedown/lib/slidedown.css";
+import { motion } from "framer-motion";
 
 const FaqItem = ({ item, index }) => {
   const [activeId, setActiveId] = useState(null);
@@ -41,11 +40,11 @@ const FaqItem = ({ item, index }) => {
         </div>
       </div>
 
-      <SlideDown>
+      <motion.div>
         {activeId === item.id && (
           <div className="body-3 px-7 py-3.5">{item.answer}</div>
         )}
-      </SlideDown>
+      </motion.div>
 
       <div
         className={clsx(
