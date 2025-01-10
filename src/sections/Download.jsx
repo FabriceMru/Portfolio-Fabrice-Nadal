@@ -48,8 +48,7 @@ const Download = () => {
 
               <p className="body-3 mb-8 mt-10 max-w-md">
                 <b>
-                  Herunterladen von ( Lebenslauf & Zertifikaten ) in bekannten
-                  Formaten
+                  Herunterladen von Lebenslauf und Zertifikaten als ZIP Datei
                 </b>
               </p>
               <ul className="flex flex-wrap items-center gap-6">
