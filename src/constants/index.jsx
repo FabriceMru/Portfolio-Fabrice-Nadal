@@ -225,7 +225,7 @@ export const testimonials = [
   },
   {
     id: "5",
-    name: "Mike Zobrys",
+    name: "Mike Z.",
     role: "Inhaber - TUI ReiseCenter, Berlin",
     avatarUrl: "/images/testimonials/Mike-rund.png",
     comment:
