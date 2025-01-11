@@ -27,3 +27,4 @@ Falls du Interesse an meinen Projekten oder einer Zusammenarbeit hast, lass es m
 - Hover Effekt über Icons (Technologien)
 - Downloads Passwortgeschützt
 - Cursor Individuell mit Schatteneffekt
+- Verlinkung Firmen

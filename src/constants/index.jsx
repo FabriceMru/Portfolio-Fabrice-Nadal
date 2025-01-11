@@ -4,7 +4,7 @@ export const features = [
     icon: "/images/feature-1.png",
     caption: "DIGITALE SYNERGIE",
     title: "Technologie trifft Business",
-    text: "Meine Erfahrung im Sales Development bei BuildingMinds und NinjaOne gibt mir einen einzigartigen Blick auf Technologie. Ich verstehe nicht nur den Code, sondern auch die Menschen, die ihn nutzen. Diese Kombination macht mich zu einem Entwickler, der Lösungen nicht nur programmiert, sondern strategisch denkt.",
+    text: "Meine Erfahrung im Sales Development bei BuildingMinds und NinjaOne gibt mir einen einzigartigen Blick auf Technologie. Ich verstehe nicht nur den Code, sondern auch die Menschen, die ihn anwenden. Diese Kombination macht mich zu einem Entwickler, der Lösungen nicht nur programmiert, sondern strategisch denkt.",
     button: {
       icon: "/images/magictouch.svg",
       title: "Zu den Webseiten",
@@ -15,7 +15,7 @@ export const features = [
     icon: "/images/feature-2.png",
     caption: "TECHNISCHE VIELFALT",
     title: "Kontinuierliches Wachstum",
-    text: "Als Quereinsteiger bringe ich frische Perspektiven in die Tech-Branche. Meine Ausbildung am DCI Digital Career Institute hat mir nicht nur technische Skills vermittelt, sondern auch gezeigt, wie wichtig es ist, sich ständig weiterzuentwickeln. MERN-Stack ist meine Basis und Neugier mein Antrieb sowie stets auf dem neusten Stand zu sein.",
+    text: "Als Quereinsteiger bringe ich frische Perspektiven in die Tech-Branche. Meine Ausbildung am DCI Digital Career Institute hat mir nicht nur technische Skills vermittelt, sondern auch gezeigt, wie wichtig es ist, sich ständig weiterzuentwickeln. Der MERN-Stack bildet meine Basis, und Neugierde ist mein Antrieb, um stets auf dem neuesten Stand zu bleiben.",
     button: {
       icon: "/images/docs.svg",
       title: "Zu den Spielen",
@@ -76,61 +76,61 @@ export const faq = [
     id: "0",
     question: "Was macht mich als Entwickler besonders?",
     answer:
-      "In meiner vorherigen Rolle als Sales Development Manager habe ich gelernt, wie Technologie Menschen weiterbringt. Diese Erfahrung nutze ich heute, um Lösungen zu entwickeln, die nicht nur funktionieren, sondern begeistern.",
+      "In meiner vorherigen Rolle als Sales Development Manager habe ich gelernt, wie Technologie Menschen Voranbringt. Diese Erfahrung nutze ich heute, um Lösungen zu entwickeln, die nicht nur funktionieren, sondern begeistern.",
   },
   {
     id: "1",
     question: "Welche technischen Skills bringe ich mit?",
     answer:
-      "Ich arbeite täglich mit dem MERN-Stack und beherrsche MongoDB, Express.js, React und Node.js. Zusätzlich setze ich TypeScript, Next.js und Tailwind CSS ein. Meine technischen Fähigkeiten entwickle ich ständig weiter.",
+      "Ich arbeite täglich mit dem MERN-Stack und beherrsche MongoDB, Express.js, React.js und Node.js. Zusätzlich setze ich TypeScript, Next.js und Tailwind CSS ein. Meine technischen Fähigkeiten entwickle ich ständig weiter.",
   },
   {
     id: "2",
     question: "Warum bin ich als Quereinsteiger wertvoll?",
     answer:
-      "Mein Weg in die Entwicklung ist nicht traditionell, aber genau das ist meine Stärke. Ich verbinde Vertriebs-Know-how mit Programmierung und schaffe damit Lösungen, die sowohl technisch überzeugen als auch Geschäftsziele erreichen.",
+      "Mein Weg in die Entwicklung ist nicht traditionell, aber genau das ist meine Stärke. Ich kombiniere Vertriebs-Know-how mit Programmierung und entwickle Lösungen, die sowohl technisch überzeugen als auch Geschäftsziele erreichen.",
   },
   {
     id: "3",
     question: "Wie kommuniziere ich im Team?",
     answer:
-      "Durch meine Sprachkenntnisse in Deutsch, Englisch und Französisch arbeite ich mühelos in internationalen Teams. Als ehemaliger Teamleiter weiß ich, wie wichtig klare Kommunikation für den Projekterfolg ist.",
+      "Durch meine Sprachkenntnisse in Deutsch, Englisch und Französisch arbeite ich mühelos in internationalen Teams. Als ehemaliger Teamleiter weiß ich, wie entscheidend klare Kommunikation für den Projekterfolg ist.",
   },
   {
     id: "4",
     question: "Was sind meine Lieblingsprojekte?",
     answer:
-      "Ich liebe es, Anwendungen zu entwickeln, die das Leben einfacher machen. Mein Fokus liegt auf modernen Webanwendungen, die Menschen helfen, effizienter zu arbeiten und besser zu kommunizieren.",
+      "Ich entwickle leidenschaftlich gerne Anwendungen, die das Leben erleichtern. Mein Fokus liegt auf modernen Webanwendungen, die Menschen helfen, effizienter zu arbeiten und besser zu kommunizieren.",
   },
   {
     id: "5",
     question: "Wie halte ich mich technisch fit?",
     answer:
-      "Meine Ausbildung am DCI ist nur der Anfang. Ich lerne ständig durch eigene Projekte dazu, besuche Online-Kurse und tausche mich aktiv in der Entwickler-Community aus. Neue Technologien faszinieren mich.",
+      "Meine Ausbildung am DCI ist nur der Anfang. Ich erweitere kontinuierlich mein Wissen durch eigene Projekte, besuche Online-Kurse und beteilige mich aktiv in der Entwickler-Community. Neue Technologien faszinieren mich.",
   },
   {
     id: "6",
     question: "Wie gehe ich an Probleme heran?",
     answer:
-      "Ich analysiere erst die Gesamtsituation und teile dann große Aufgaben in überschaubare Schritte ein. Meine Vertriebserfahrung hilft mir, dabei immer die Bedürfnisse der Endnutzer im Blick zu behalten.",
+      "Ich analysiere zunächst die Gesamtsituation und zerlege anschließend große Aufgaben in überschaubare Schritte. Meine Vertriebserfahrung hilft mir, dabei immer die Bedürfnisse der Endnutzer im Blick zu behalten.",
   },
   {
     id: "7",
     question: "Was sind meine Frontend-Stärken?",
     answer:
-      "Ich entwickle responsive Websites mit Fokus auf Benutzerfreundlichkeit. Sauberer, wartbarer Code ist mir dabei besonders wichtig. Performance und moderne Design-Prinzipien setze ich konsequent um.",
+      "Ich entwickle responsive Websites mit Fokus auf Benutzerfreundlichkeit. Sauberer, wartbarer Code ist mir dabei besonders wichtig. Performance und moderne Designprinzipien setze ich konsequent um.",
   },
   {
     id: "8",
     question: "Wie sieht eine Zusammenarbeit mit mir aus?",
     answer:
-      "Ich bin in Berlin ansässig und arbeite sowohl remote als auch vor Ort. Als Teamplayer bringe ich mich aktiv ein und teile gerne mein Wissen. Zuverlässigkeit und Engagement sind für mich selbstverständlich.",
+      "Ich bin in Berlin ansässig und arbeite sowohl remote als auch vor Ort. Als Teamplayer engagiere ich mich aktiv und teile bereitwillig mein Wissen. Zuverlässigkeit und Engagement sind für mich selbstverständlich.",
   },
   {
     id: "9",
     question: "Was ist meine Vision?",
     answer:
-      "Als Full-Stack Entwickler mit Businessverständnis will ich die Lücke zwischen technischen Möglichkeiten und praktischem Nutzen schließen. Ich entwickle nicht nur Code, sondern schaffe echten Mehrwert für Unternehmen und Nutzer.",
+      "Als Full-Stack Entwickler mit Businessverständnis will ich die Lücke zwischen technischen Möglichkeiten und praktischem Nutzen schließen. Ich schreibe nicht nur Code, sondern schaffe echten Mehrwert für Unternehmen und Nutzer.",
   },
 ];
 
