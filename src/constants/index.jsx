@@ -28,7 +28,6 @@ export const details = [
     id: "0",
     icon: "/images/logo-html.svg",
     title: "HTML5",
-    description: "HTML5 ist die Kernsprache für Webseitenstruktur.",
   },
   {
     id: "1",
