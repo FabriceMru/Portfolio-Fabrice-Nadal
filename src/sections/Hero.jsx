@@ -8,10 +8,20 @@ const Hero = () => {
         <div className="container">
           <div className="relative z-2 max-w-512 max-lg:max-w-388">
             <div className="caption small-2 uppercase text-p3">About me</div>
-            <h1 className="mb-6 h1 text-p4 uppercase max-lg:mb-7 max-lg:h2 max-md:mb-4 max-md:text-5xl max-md:leading-12">
+            <h1 className="mb-4 h1 text-p1 uppercase max-lg:mb-7 max-lg:h2 max-md:mb-4 max-md:text-4xl max-md:leading-12">
               "LEIDENSCHAFTLICH, INNOVATIV"
             </h1>
-            <p className="max-w-440 mb-14 body-1 max-md:mb-10">
+
+            {/* Bild nur in der mobilen Ansicht */}
+            <div className="my-6 md:hidden">
+              <img
+                src="/images/Fabrice_autumn.png"
+                className="w-full h-auto max-w-full rounded-md"
+                alt="hero"
+              />
+            </div>
+
+            <p className="max-w-440 mb-9 body-1 max-md:mb-10">
               "Als Full Stack Entwickler verbinde ich technische Expertise mit
               strategischem Verständnis, um digitale Lösungen zu schaffen, die
               Menschen begeistern."
@@ -21,10 +31,11 @@ const Hero = () => {
             </LinkScroll>
           </div>
 
-          <div className="flex-2 ml-8 absolute left-[calc(75%-400px)] top-[calc(86%-400px)] w-full my-4">
+          {/* Bild für größere Bildschirme */}
+          <div className="flex-2 ml-2 absolute left-[calc(75%-450px)] top-[calc(86%-400px)] w-full my-11 hidden md:block">
             <img
-              src="/images/screens-me.png"
-              className="w-full h-auto max-w-full md:max-w-[400px] rounded-md"
+              src="/images/Fabrice_autumn.png"
+              className="w-full h-auto max-w-full md:max-w-[450px] rounded-md"
               alt="hero"
             />
           </div>

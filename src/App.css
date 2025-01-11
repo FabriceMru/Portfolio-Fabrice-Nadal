@@ -40,3 +40,13 @@
 .read-the-docs {
   color: #888;
 }
+
+/* Popup Button */
+button {
+  font-family: "Arial", sans-serif;
+}
+
+/* Animation */
+.popup {
+  transition: transform 0.3s ease, opacity 0.3s ease;
+}

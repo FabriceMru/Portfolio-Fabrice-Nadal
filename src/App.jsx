@@ -7,6 +7,7 @@ import Faq from "./sections/Faq.jsx";
 import Testimonials from "./sections/Testimonials.jsx";
 import Download from "./sections/Download.jsx";
 import Footer from "./sections/Footer.jsx";
+import PopupCTA from "./components/PopUpCTA.jsx"; // Popup-Komponente importieren
 
 const App = () => {
   return (
@@ -19,6 +20,7 @@ const App = () => {
       <Testimonials />
       <Download />
       <Footer />
+      <PopupCTA /> {/* Popup hinzufügen */}
     </main>
   );
 };
