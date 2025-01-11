@@ -22,3 +22,8 @@ Das Ziel dieses Portfolios ist es, meine Projekte und Fähigkeiten zu präsentie
 Falls du Interesse an meinen Projekten oder einer Zusammenarbeit hast, lass es mich wissen! :)
 
 ---
+
+## Upcoming Features:
+- Hover Effekt über Icons (Technologien)
+- Downloads Passwortgeschützt
+- Cursor Individuell mit Schatteneffekt
