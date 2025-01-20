@@ -41,6 +41,8 @@ const Button = ({
         containerClassName,
       )}
       href={href}
+      target="_blank" // Öffnet in neuem Tab
+      rel="noopener noreferrer" // Sicherheits-Best-Practices
     >
       <Inner />
     </a>

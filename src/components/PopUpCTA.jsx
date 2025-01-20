@@ -17,7 +17,7 @@ const PopupCTA = () => {
           border: "none",
           cursor: "pointer",
           position: "fixed",
-          bottom: "20px",
+          bottom: "40px",
           left: "20px", // Button auf der linken Seite
           zIndex: 9999,
         }}

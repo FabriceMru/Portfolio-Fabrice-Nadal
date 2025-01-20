@@ -1,6 +1,7 @@
 import { Element } from "react-scroll";
 import { details, features } from "../constants/index.jsx";
 import Button from "../components/Button.jsx";
+import LinkWrapper from "../components/LinkWrapper.jsx";
 
 const Features = () => {
   return (
@@ -30,7 +31,9 @@ const Features = () => {
                   {title}
                 </h2>
                 <p className="mb-11 body-1 max-md:mb-8 max-md:body-3">{text}</p>
-                <Button icon={button.icon}>{button.title}</Button>
+                <LinkWrapper href={button.link}>
+                  <Button icon={button.icon}>{button.title}</Button>
+                </LinkWrapper>
               </div>
             ))}
 
@@ -61,4 +64,5 @@ const Features = () => {
     </section>
   );
 };
+
 export default Features;

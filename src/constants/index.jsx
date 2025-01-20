@@ -4,10 +4,11 @@ export const features = [
     icon: "/images/feature-1.png",
     caption: "DIGITALE SYNERGIE",
     title: "Technologie trifft Business",
-    text: "Meine Erfahrung im Sales Development bei BuildingMinds und NinjaOne gibt mir einen einzigartigen Blick auf Technologie. Ich verstehe nicht nur den Code, sondern auch die Menschen, die ihn anwenden. Diese Kombination macht mich zu einem Entwickler, der Lösungen nicht nur programmiert, sondern strategisch denkt.",
+    text: "Meine Erfahrung im Sales Development bei BuildingMinds und NinjaOne gibt mir einen einzigartigen Blick auf Technologie. Ich verstehe nicht nur den Code, sondern auch die Menschen, die ihn anwenden. Diese Kombination macht mich zu einem Entwickler, der Lösungen nicht immer nur programmiert, sondern auch strategisch denkt.",
     button: {
       icon: "/images/magictouch.svg",
       title: "Zu den Webseiten",
+      link: "https://github.com/FabriceMru?tab=overview&from=2025-01-01&to=2025-01-20",
     },
   },
   {
@@ -19,6 +20,7 @@ export const features = [
     button: {
       icon: "/images/docs.svg",
       title: "Zu den Spielen",
+      link: "https://fabricemru.github.io/NeonSnakeTwoGame/",
     },
   },
 ];
