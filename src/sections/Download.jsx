@@ -20,7 +20,7 @@ const Download = () => {
     <section>
       <Element
         name="download"
-        className="g7 relative pb-32 pt-24 max-lg:pb-24 max-md:py-16"
+        className="g7 relative pb-28 pt-16 max-lg:pb-24 max-md:py-16"
       >
         <div className="container">
           {!accessGranted ? (
@@ -50,7 +50,7 @@ const Download = () => {
               <div className="relative mr-6 flex-540 max-xl:flex-280 max-lg:flex256 max-md:flex-100">
                 <div className="mt-0 mr-14">
                   <img
-                    className="ml-14"
+                    className
                     src="/images/logo-kitsune.png"
                     width={340}
                     height={340}
@@ -58,7 +58,7 @@ const Download = () => {
                   />
 
                   <span>
-                    <i>
+                    <i className="w-full text-gray-400 space-y-4 text-center text-xl mb-6 w-full text-justify">
                       Kōbō Kitsune (工房狐), die "Werkstatt des Fuchses" steht
                       an der Schwelle zwischen zwei Welten - verwurzelt in der
                       mystischen Tradition Japans und zugleich vorausschauend in

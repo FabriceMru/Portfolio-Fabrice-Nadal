@@ -194,6 +194,7 @@ export const testimonials = [
     avatarUrl: "/images/testimonials/tarek-round.png",
     comment:
       "Seine Arbeit an unseren Webprojekten bei Audat zeichnete sich durch technische Präzision und strategischen Weitblick aus. Er versteht es, digitale Lösungen zu entwickeln, die nicht nur technisch überzeugen, sondern auch echten Business-Mehrwert schaffen.",
+    companyLink: "https://www.audat.de/",
   },
   {
     id: "1",
@@ -202,6 +203,7 @@ export const testimonials = [
     avatarUrl: "/images/testimonials/jimmy-rund.png",
     comment:
       "Eine seltene Kombination aus technischer Expertise und Kommunikationsstärke. Seine Fähigkeit, komplexe Lösungen verständlich zu vermitteln, macht ihn zu einem wertvollen Kollegen und Freund.",
+    companyLink: "https://www.linkedin.com/in/kuchenmeisterjimmy/",
   },
   {
     id: "2",
@@ -210,6 +212,8 @@ export const testimonials = [
     avatarUrl: "/images/testimonials/gerardo-round.png",
     comment:
       "During our time at DCI, we collaborated on numerous projects where his problem-solving skills and coding expertise consistently stood out. Not only is he a talented developer, but his ability to break down complex challenges and find innovative solutions made him an invaluable project partner.",
+    companyLink:
+      "https://www.linkedin.com/in/gerardo-michele-mussuto-895971313/",
   },
   {
     id: "3",
@@ -218,6 +222,7 @@ export const testimonials = [
     avatarUrl: "/images/testimonials/natalia-round.png",
     comment:
       "Starting our SDR journey at NinjaOne almost simultaneously, I witnessed firsthand his exceptional ability to connect with prospects and drive meaningful conversations. His analytical approach combined with genuine enthusiasm makes him not just a great colleague, but an inspiring team player.",
+    companyLink: "https: //www.linkedin.com/in/nataliaoklimek/",
   },
   {
     id: "4",
@@ -226,6 +231,7 @@ export const testimonials = [
     avatarUrl: "/images/testimonials/michael-rund.png",
     comment:
       "In seiner Zeit bei LuxuryDreams überzeugte er durch die bemerkenswerte Kombination aus strategischem Denken und praktischer Umsetzung. Seine Exzellenz und Fähigkeit, nachhaltige Kundenbeziehungen aufzubauen, trugen maßgeblich zu unserem Unternehmenswachstum bei.",
+    companyLink: "https://www.luxurydreams.de/",
   },
   {
     id: "5",
@@ -234,6 +240,7 @@ export const testimonials = [
     avatarUrl: "/images/testimonials/Mike-rund.png",
     comment:
       "Fabrice ist ein herausragender Mitarbeiter, der durch Engagement, Kundenorientierung und kreative Ideen überzeugt. Seine professionelle Arbeitsweise und positive Ausstrahlung bereichern unser Team enorm. Ein echter Gewinn für jedes Unternehmen!",
+    companyLink: "https://www.tui-reisecenter.de/berlin3",
   },
 ];
 

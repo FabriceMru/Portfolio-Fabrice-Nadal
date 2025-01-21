@@ -145,7 +145,11 @@ const Pricing = () => {
                 </ul>
 
                 <div className="mt-10 flex w-full justify-center">
-                  <Button icon={plan.icon}>Full Stack Web Developer</Button>
+                  {" "}
+                  <b></b>
+                  <span icon={plan.icon}></span>{" "}
+                  {/*// Hier war ein Knopf, nicht
+                  funktional deshalb gelöscht*/}
                 </div>
 
                 {index === 1 && (

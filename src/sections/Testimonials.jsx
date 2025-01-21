@@ -4,6 +4,12 @@ import TestimonialItem from "../components/TestimonialItem.jsx";
 const Testimonials = () => {
   const halfLength = Math.floor(testimonials.length / 2);
 
+  const handleTestimonialClick = (link) => {
+    if (link) {
+      window.open(link, "_blank", "noopener,noreferrer");
+    }
+  };
+
   return (
     <section className="relative z-2 py-24 md:py-28 lg:py-40">
       <div className="container block lg:flex">
@@ -17,21 +23,31 @@ const Testimonials = () => {
         <div className="testimonials_inner-after testimonials_inner-before relative -my-12 -mr-3 flex items-start max-lg:static max-md:block">
           <div className="testimonials_group-after flex-50">
             {testimonials.slice(0, halfLength).map((testimonial) => (
-              <TestimonialItem
+              <div
                 key={testimonial.id}
-                item={testimonial}
-                containerClassName="last:after:hidden last:after:max-md:block"
-              />
+                onClick={() => handleTestimonialClick(testimonial.companyLink)}
+                className="cursor-pointer transition-opacity hover:opacity-90"
+              >
+                <TestimonialItem
+                  item={testimonial}
+                  containerClassName="last:after:hidden last:after:max-md:block"
+                />
+              </div>
             ))}
           </div>
 
           <div className="flex-50">
             {testimonials.slice(halfLength).map((testimonial) => (
-              <TestimonialItem
+              <div
                 key={testimonial.id}
-                item={testimonial}
-                containerClassName="last:after:hidden after:right-auto after:left-0 after:max-md:-left-4 md:px-12"
-              />
+                onClick={() => handleTestimonialClick(testimonial.companyLink)}
+                className="cursor-pointer transition-opacity hover:opacity-90"
+              >
+                <TestimonialItem
+                  item={testimonial}
+                  containerClassName="last:after:hidden after:right-auto after:left-0 after:max-md:-left-4 md:px-12"
+                />
+              </div>
             ))}
           </div>
         </div>
