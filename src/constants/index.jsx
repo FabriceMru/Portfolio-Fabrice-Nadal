@@ -8,7 +8,7 @@ export const features = [
     button: {
       icon: "/images/magictouch.svg",
       title: "Zu den Webseiten",
-      link: "https://github.com/FabriceMru?tab=overview&from=2025-01-01&to=2025-01-20",
+      link: "https://github.com/FabriceMru?tab=repositories&q=web-pages&type=public&language=&sort=",
     },
   },
   {
@@ -20,7 +20,7 @@ export const features = [
     button: {
       icon: "/images/docs.svg",
       title: "Zu den Spielen",
-      link: "https://fabricemru.github.io/NeonSnakeTwoGame/",
+      link: "https://github.com/FabriceMru?tab=repositories&q=games&type=public&language=&sort=",
     },
   },
 ];

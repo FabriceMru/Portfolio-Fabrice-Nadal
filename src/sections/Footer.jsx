@@ -7,7 +7,7 @@ const Footer = () => {
         <div className="flex w-full max-md:flex-col">
           <div className="small-compact flex flex-1 flex-wrap items-center justify-center gap-5">
             <p className="opacity-20">
-              Copyright© 2025 Kōbō Kitsune <br />{" "}
+              Copyright© 2024 Kōbō Kitsune <br />{" "}
               <i>
                 „Verantwortlich für den Inhalt dieser Website: Fabrice Nadal.
                 <br />
