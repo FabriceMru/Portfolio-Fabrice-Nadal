@@ -27,7 +27,7 @@ const Hero = () => {
               Menschen begeistern."
             </p>
             <LinkScroll to="features" offset={-100} spy smooth>
-              <Button icon="/images/zap.svg">Qualifikationen</Button>
+              <Button icon="/images/zap.svg">Let us Talk</Button>
             </LinkScroll>
           </div>
 
