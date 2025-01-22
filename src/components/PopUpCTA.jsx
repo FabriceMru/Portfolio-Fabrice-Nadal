@@ -49,17 +49,18 @@ const PopupCTA = () => {
             exit={{ opacity: 0, x: -100 }}
             style={{
               position: "fixed",
-              top: "20%",
-              left: "20px", // Popup auf der linken Seite
+              top: "30%",
+              left: "1%", // Popup auf der linken Seite
               background: "#0a0f24",
               padding: "20px",
               borderRadius: "10px",
               color: "white",
               zIndex: 9999,
-              width: "300px",
+              width: "310px",
+              border: "2px solid #007bff",
             }}
           >
-            <h2>Suchen Sie einen Junior Fullstack-Entwickler?</h2> <br />
+            <h2>Lassen Sie uns sprechen!</h2>
             <br />
             <p>Schreiben Sie mir eine E-Mail!</p>
             <a
