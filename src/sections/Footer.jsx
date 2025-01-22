@@ -11,7 +11,8 @@ const Footer = () => {
               <i>
                 „Verantwortlich für den Inhalt dieser Website: Fabrice Nadal.
                 <br />
-                Kōbō Kitsune ist geplante Marke und derzeit in Entwicklung.“
+                Kōbō Kitsune ist eine geplante Marke und befindet sich derzeit
+                in Entwicklung.“
               </i>
             </p>
           </div>
