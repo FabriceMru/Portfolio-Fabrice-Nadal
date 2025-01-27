@@ -9,7 +9,7 @@ const Hero = () => {
           <div className="relative z-2 max-w-512 max-lg:max-w-388">
             <div className="caption small-2 uppercase text-p3">About me</div>
             <h1 className="mb-4 h1 text-p1 uppercase max-lg:mb-7 max-lg:h2 max-md:mb-4 max-md:text-4xl max-md:leading-12">
-              "LEIDENSCHAFTLICH, INNOVATIV"
+              LEIDENSCHAFTLICH, INNOVATIV
             </h1>
 
             {/* Bild nur in der mobilen Ansicht */}
@@ -17,7 +17,7 @@ const Hero = () => {
               <img
                 src="/images/Fabrice_autumn.png"
                 className="w-full h-auto max-w-full rounded-md"
-                alt="hero"
+                alt="Foto von Fabrice Nadal im Herbst"
               />
             </div>
 
@@ -42,7 +42,7 @@ const Hero = () => {
             <img
               src="/images/Fabrice_autumn.png"
               className="w-full h-auto max-w-full md:max-w-[550px] rounded-md"
-              alt="hero"
+              alt="Foto von Fabrice Nadal im Herbst"
             />
           </div>
         </div>
