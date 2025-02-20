@@ -20,7 +20,10 @@ Das Portfolio wurde mit modernen Web-Technologien erstellt, um eine schnelle, fl
 Das Ziel dieses Portfolios ist es, meine Projekte und Fähigkeiten zu präsentieren, potenzielle Arbeitgeber oder Kunden zu beeindrucken und mich als Entwickler sichtbar zu machen. Es spiegelt meinen Fokus auf moderne Webentwicklung und Design wider.
 
 ---
-
+## Links
+## [Link to the page vercel](https://portfolio-fabrice-nadal.vercel.app/)
+## [Link to the Website](https://www.fabricenadal.com/)
+---
 Falls du Interesse an meinen Projekten oder einer Zusammenarbeit hast, lass es mich wissen! :)
 
 ---
