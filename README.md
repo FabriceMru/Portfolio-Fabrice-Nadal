@@ -2,6 +2,8 @@
 
 Dies ist das persönliche Portfolio von Fabrice, das darauf abzielt, meine Fähigkeiten und Projekte vorzustellen. Es dient als digitale Visitenkarte und zeigt meine Arbeiten und Expertise als (angehender) Fullstack-Webentwickler.
 
+![img.png](img.png)
+
 ## Technologien
 Das Portfolio wurde mit modernen Web-Technologien erstellt, um eine schnelle, flexible und ansprechende Benutzeroberfläche bereitzustellen. Die folgenden Technologien kommen zum Einsatz:
 
@@ -26,5 +28,6 @@ Falls du Interesse an meinen Projekten oder einer Zusammenarbeit hast, lass es m
 ## Upcoming Features:
 - Hover Effekt über Icons (Technologien)
 - Downloads Passwortgeschützt
-- Cursor Individuell mit Schatteneffekt
+- Cursor individuell mit Schatteneffekt
 - Verlinkung Firmen
+- Dark & Light Mode
