@@ -21,8 +21,8 @@ Das Ziel dieses Portfolios ist es, meine Projekte und Fähigkeiten zu präsentie
 
 ---
 ## Links
-## [Link to the page vercel](https://portfolio-fabrice-nadal.vercel.app/)
-## [Link to the Website](https://www.fabricenadal.com/)
+### [Link to the page vercel](https://portfolio-fabrice-nadal.vercel.app/)
+### [Link to the Website](https://www.fabricenadal.com/)
 ---
 Falls du Interesse an meinen Projekten oder einer Zusammenarbeit hast, lass es mich wissen! :)
 
