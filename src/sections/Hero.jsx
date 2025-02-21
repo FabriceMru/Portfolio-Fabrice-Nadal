@@ -1,4 +1,4 @@
-import { Element, Link as LinkScroll } from "react-scroll";
+import { Element } from "react-scroll";
 
 const Hero = () => {
   return (
@@ -9,7 +9,6 @@ const Hero = () => {
             About me
           </span>
           <div className="flex flex-col items-start lg:flex-row lg:items-start lg:justify-between lg:space-x-8">
-            {/* Text Content */}
             <div className="w-full lg:w-1/2">
               <h1 className="text-5xl font-bold h0 text-p1 lg:text-6xl xl:text-7xl ">
                 INNOVATION
@@ -33,7 +32,6 @@ const Hero = () => {
               </div>
             </div>
 
-            {/* Image */}
             <div className="mt-12 w-full lg:mt-0 lg:w-1/2">
               <div className="relative mx-auto lg:mx-0">
                 <img
