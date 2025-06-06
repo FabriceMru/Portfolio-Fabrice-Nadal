@@ -1,0 +1,4 @@
+Contact: mailto:kobokitsune01@gmail.com
+Expires: 2025-12-31T23:59:59.000Z
+Preferred-Languages: en, de
+Policy: https://www.fabricenadal.com/legal/security-policy
