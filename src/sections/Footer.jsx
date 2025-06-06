@@ -17,6 +17,17 @@ const Footer = () => {
             </p>
           </div>
           <div className="flex items-center justify-center sm:ml-auto"></div>
+          {/*
+          Impressum & Datenschutz
+*/}
+          <footer className="text-center text-sm py-4">
+            <a href="/impressum.html" className="mx-2 underline">
+              Impressum
+            </a>
+            <a href="/datenschutz.html" className="mx-2 underline">
+              Datenschutz
+            </a>
+          </footer>
 
           <ul className="flex flex-1 justify-center gap-3 max-md:mt-10 md:justify-end">
             {socials.map(({ id, url, icon, title }) => (
