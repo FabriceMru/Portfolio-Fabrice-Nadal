@@ -3,7 +3,7 @@ import { Element } from "react-scroll";
 const Hero = () => {
   return (
     <section className="relative  pt-32 pb-20">
-      <Element name="hero">
+      <Element name="about">
         <div className="container mx-auto px-4">
           <span className="mt-22 mb-8 block text-sm font-medium uppercase tracking-[0.2em] caption small-2 text-p3">
             About me
